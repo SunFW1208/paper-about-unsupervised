@@ -18,7 +18,10 @@
 | BYOL | 2020 | NeurIPS | [Bootstrap Your Own Latent:A New Approach to Self-Supervised Learning](https://arxiv.org/pdf/2006.07733.pdf) |
 | SWaV | 2020 | CVPR | [Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://arxiv.org/pdf/2006.09882.pdf) |
 | SimSiam | 2020 |  CVPR | [Exploring Simple Siamese Representation Learning](https://arxiv.org/pdf/2011.10566.pdf) |
-| MoCo_V3 | 2021 | CVPR | [An Empirical Study of Training Self-Supervised Vision Transformers](https://arxiv.org/pdf/2104.02057.pdf) |
+| MoCo_V3 | 2021 | ICCV | [An Empirical Study of Training Self-Supervised Vision Transformers](https://arxiv.org/pdf/2104.02057.pdf) |
+| DetCo | 2021 | ICCV | [DetCo: Unsupervised Contrastive Learning for Object Detection](https://arxiv.org/pdf/2102.04803.pdf) |
+|| 2021 | ICCV | [Improving Contrastive Learning by Visualizing Feature Transformation](https://arxiv.org/pdf/2108.02982.pdf) |
+| MultiSiam | 2021 | ICCV | [MultiSiam: Self-supervised Multi-instance Siamese Representation Learning for Autonomous Driving](https://arxiv.org/pdf/2108.12178.pdf) | [code](https://github.com/KaiChen1998/MultiSiam)
 | DINO | 2021 | CVPR | [Emerging Properties in Self-Supervised Vision Transformers](https://arxiv.org/pdf/2104.14294.pdf) | 
 | BarlowTwins | 2021 | CVPR | [Barlow Twins: Self-Supervised Learning via Redundancy Reduction](https://arxiv.org/pdf/2103.03230v3.pdf)|
 | DAPC | 2021 | ICLR | [Representation Learning for Sequence Data with Deep Autoencoding Predictive Components](https://arxiv.org/pdf/2010.03135v2.pdf) |
