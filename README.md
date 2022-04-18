@@ -12,7 +12,7 @@
 | CMC | 2019 | CVPR | [Contrastive Multiview Coding](https://arxiv.org/pdf/1906.05849.pdf) |
 | MoCo_V1 | 2019 | CVPR | [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/pdf/1911.05722.pdf) | 
 | MIMax | 2020 | ICLR | [On Mutual Information Maximization for Representation Learning](https://arxiv.org/pdf/1907.13625v2.pdf) |
-| SimCLR_V1 | 2020 | Arxiv | [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/pdf/2002.05709.pdf) |
+| SimCLR_V1 | 2020 | ICML | [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/pdf/2002.05709.pdf) |
 | MoCo_V2 | 2020 | CVPR | [Improved Baselines with Momentum Contrastive Learning](https://arxiv.org/pdf/2003.04297.pdf) |
 | SimCLR_V2 | 2020 | NeurIPS | [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/pdf/2006.10029.pdf) |
 | BYOL | 2020 | NeurIPS | [Bootstrap Your Own Latent:A New Approach to Self-Supervised Learning](https://arxiv.org/pdf/2006.07733.pdf) |
@@ -22,3 +22,6 @@
 | DINO | 2021 | CVPR | [Emerging Properties in Self-Supervised Vision Transformers](https://arxiv.org/pdf/2104.14294.pdf) | 
 | BarlowTwins | 2021 | CVPR | [Barlow Twins: Self-Supervised Learning via Redundancy Reduction](https://arxiv.org/pdf/2103.03230v3.pdf)|
 | DAPC | 2021 | ICLR | [Representation Learning for Sequence Data with Deep Autoencoding Predictive Components](https://arxiv.org/pdf/2010.03135v2.pdf) |
+| UniVIP | 2022 | CVPR | [UniVIP: A Unified Framework for Self-Supervised Visual Pre-training](https://arxiv.org/abs/2203.06965) |
+| ContrastiveCrop | 2022 | CVPR | [Crafting Better Contrastive Views for Siamese Representation Learning](https://arxiv.org/pdf/2202.03278.pdf) |
+| HCSC | 2022 | CVPR | [HCSC: Hierarchical Contrastive Selective Coding](https://arxiv.org/pdf/2202.00455.pdf) |
